@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola mundo"
+echo "Listado de libros"
 
 ?>
